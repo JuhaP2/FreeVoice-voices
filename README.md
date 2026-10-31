@@ -50,6 +50,24 @@ Each voice is the original community RVC v2 model converted to ONNX (fp16) with 
 | Elmo · AI | `elmo` | datonerylsguy | [datonerylsguy/ElmoRyanDillon](https://huggingface.co/datonerylsguy/ElmoRyanDillon) | openrail |
 | Freddy Fazbear · AI | `freddy-fazbear` | FanFierik | [FanFierik/FreddyFazbear](https://huggingface.co/FanFierik/FreddyFazbear) | openrail |
 | Sans · AI | `sans` | ClementineRVC | [ClementineRVC/SansUndertale](https://huggingface.co/ClementineRVC/SansUndertale) | openrail |
+| Herbert · AI | `herbert` | pizzasteve | [pizzasteve/HerbertThePervert](https://huggingface.co/pizzasteve/HerbertThePervert) | openrail |
+| Joker (Mark Hamill) · AI | `joker-mark-hamill` | Homiebear | [Homiebear/JokerMarkHamill2026_530e_10070s](https://huggingface.co/Homiebear/JokerMarkHamill2026_530e_10070s) | openrail |
+| Glenn Quagmire · AI | `quagmire` | Manork | [Manork/Quagmire](https://huggingface.co/Manork/Quagmire) | openrail |
+| Brian Griffin · AI | `brian-griffin` | Amplify-TF | [Amplify-TF/BrianGriffin](https://huggingface.co/Amplify-TF/BrianGriffin) | openrail |
+| Cleveland Brown · AI | `cleveland-brown` | Coolwowsocoolwow | [Coolwowsocoolwow/Cleveland_Brown](https://huggingface.co/Coolwowsocoolwow/Cleveland_Brown) | openrail |
+| Joe Swanson · AI | `joe-swanson` | Homiebear | [Homiebear/JoeSwanson](https://huggingface.co/Homiebear/JoeSwanson) | openrail |
+| Butters · AI | `butters` | FanFierik | [FanFierik/Butters1](https://huggingface.co/FanFierik/Butters1) | openrail |
+| Randy Marsh · AI | `randy-marsh` | ndroidz | [ndroidz/randy_marsh](https://huggingface.co/ndroidz/randy_marsh) | openrail |
+| Mr. Garrison · AI | `mr-garrison` | ndroidz | [ndroidz/mr_garrison](https://huggingface.co/ndroidz/mr_garrison) | openrail |
+| Dr. Zoidberg · AI | `zoidberg` | TheGreasyGamer | [TheGreasyGamer/Zoidberg](https://huggingface.co/TheGreasyGamer/Zoidberg) | openrail |
+| Puss in Boots · AI | `puss-in-boots` | Homiebear | [Homiebear/PussinBoots](https://huggingface.co/Homiebear/PussinBoots) | openrail |
+| Larry the Lobster · AI | `larry-the-lobster` | kalomaze | [kalomaze/LarryTheLobsterRVC](https://huggingface.co/kalomaze/LarryTheLobsterRVC) | openrail |
+| Sandy Cheeks · AI | `sandy-cheeks` | Coolwowsocoolwow | [Coolwowsocoolwow/Sandy_Cheeks](https://huggingface.co/Coolwowsocoolwow/Sandy_Cheeks) | openrail |
+| Shaggy · AI | `shaggy` | FanFierik | [FanFierik/Shaggy](https://huggingface.co/FanFierik/Shaggy) | openrail |
+| Daffy Duck · AI | `daffy-duck` | Homiebear | [Homiebear/DaffyDuck](https://huggingface.co/Homiebear/DaffyDuck) | openrail |
+| Bugs Bunny · AI | `bugs-bunny` | ccateni | [ccateni/BugsBunnyMelBlacLooneyTunesRVCv248kHarvest620Epoch](https://huggingface.co/ccateni/BugsBunnyMelBlacLooneyTunesRVCv248kHarvest620Epoch) | openrail |
+| Donald Duck · AI | `donald-duck` | Coolwowsocoolwow | [Coolwowsocoolwow/Donald_Duck](https://huggingface.co/Coolwowsocoolwow/Donald_Duck) | openrail |
+| Goofy · AI | `goofy` | NewTab | [NewTab/GoofyBrockBakerRVC](https://huggingface.co/NewTab/GoofyBrockBakerRVC) | openrail |
 
 Shared models: `content.onnx` is the HuBERT-base content encoder (fairseq, MIT) and `rmvpe.onnx` the RMVPE pitch model, both as distributed with the RVC project (MIT); `mel_basis.npy` is a librosa mel filter bank.
 
