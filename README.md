@@ -10,11 +10,13 @@ Each voice is the original community RVC v2 model converted to ONNX (fp16) with 
 | Stewie Griffin · AI | `stewie-griffin` | AJ Capizzi | [maoeee/RVC-Models](https://huggingface.co/maoeee/RVC-Models) | openrail |
 | Lois Griffin · AI | `lois-griffin` | skippy_lean | [maoeee/RVC-Models](https://huggingface.co/maoeee/RVC-Models) | openrail |
 | Severus Snape / Alan Rickman · AI | `severus-snape` | RenZ97 | [RenZ97/SeverusSnape](https://huggingface.co/RenZ97/SeverusSnape) | openrail |
+| Squidward · AI | `squidward` | Homiebear | [Homiebear/SquidwardTentacles](https://huggingface.co/Homiebear/SquidwardTentacles) | openrail |
 | Patrick Star · AI | `patrick-star` | quichequill | [quichequill/RVC-V2_Models](https://huggingface.co/quichequill/RVC-V2_Models) | openrail |
 | Mr. Krabs · AI | `mr-krabs` | quichequill | [quichequill/RVC-V2_Models](https://huggingface.co/quichequill/RVC-V2_Models) | openrail |
 | Plankton · AI | `plankton` | quichequill | [quichequill/RVC-V2_Models](https://huggingface.co/quichequill/RVC-V2_Models) | openrail |
 | Eric Cartman · AI | `eric-cartman` | UkrShitMashup / YXXXNZ | [YXXXNZ/EricCartmanV1.1_RVC](https://huggingface.co/YXXXNZ/EricCartmanV1.1_RVC) | openrail |
 | Stan Marsh · AI | `stan-marsh` | Stan Malkinson | [stanmalkinson199/StanMarsh](https://huggingface.co/stanmalkinson199/StanMarsh) | openrail |
+| Homer Simpson · AI | `homer-simpson` | Sunwest | [Sunwest/Homer_Simpson_300](https://huggingface.co/Sunwest/Homer_Simpson_300) | openrail |
 | Shrek · Mike Myers · AI | `shrek` | SyberGen | [SyberGen/Shrek-VModels](https://huggingface.co/SyberGen/Shrek-VModels) | openrail |
 | Paavo Pesusieni / SpongeBob · AI | `spongebob` | quichequill | [quichequill/RVC-V2_Models](https://huggingface.co/quichequill/RVC-V2_Models) | openrail |
 | Minionit · J. A. Taylor · AI | `minions-jat` | WoomyPearl | [WoomyPearl/RVC-Model-Palace](https://huggingface.co/WoomyPearl/RVC-Model-Palace) | openrail |
